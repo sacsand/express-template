@@ -7,6 +7,12 @@
 
 Live Demo: [https://codesandbox.io/s/github/nuxt-community/express-template](https://codesandbox.io/s/github/nuxt-community/express-template)
 
+## Start with Docker
+
+```bash
+docker-compose up -d
+```
+
 ## Installation
 
 This is a template project, click on the green button "Use this template" at the top of this page and get started with GitHub :sparkles:
